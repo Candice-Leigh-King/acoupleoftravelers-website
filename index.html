@@ -1,0 +1,71 @@
+---
+layout: default
+title:
+meta-description:
+featured_image:
+url:
+summary:
+twitter-title:
+twitter_image:
+twitter-alt_image:
+banner_image:
+about_image:
+bottom_image:
+---
+
+<!-- banner -->
+<section class="banner grid-center" style="background-image: url('{{page.banner_image}}');">
+  <div class="col-6-middle centered">
+    <h2 class="explore-button"> Explore </h2>
+  </div>
+</section>
+
+<!-- recent blogs -->
+<section class="padded grid-center">
+  <h2>Recent Blogs</h2>
+  <div class="blog-loop blog-masonry padded-1">
+    {% for post in site.posts limit:3 %}
+    <div class="masonry-item ">
+      <a class="padded "href="{{post.url}}">
+        <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
+          <div class="hover-overlay">
+            <div class="hover-inner center">
+              <h3 class="editable"> Read now → </h3>
+            </div>
+          </div>
+        </div>
+        <div class="bump">
+          <h3> {{post.title}} </h3>
+          <p class="editable">↟↟↟</p>
+          <p class="date">{{post.author}}</p>
+      </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+ <!-- about-->
+ <section class="bg-white">
+   <div class="flex-flip grid-middle padded-top-1" id="about">
+     <div class="col-5_sm-12 light-bg-flex">
+       <div class=" " style="background-image: url('{{page.about_image}}');"> </div>
+     </div>
+
+     <div class=" col-7_sm-12 bg-brown" id="">
+       <div class="padded grid-center">
+         <h2 class=" editable padded col-12">About Us</h2>
+         <p class=" editable">Gaya is the zulu word for grind. It also has a double meaning. Gaia, in Greek mythology is the personification of the earth. Gaya was established in the year 2021 with the vision of creating a coffee brand that is aspirational yet attainable. Gaya aims to bridge the gap between specialty coffee and commercial coffee, a coffee that can be enjoyed by both casuals and connoisseurs. </p>
+       </div>
+     </div>
+  </div>
+<section>
+
+<section class="banner grid-right padded" style="background-image: url('{{page.bottom_image}}');">
+  <div class="col-3_sm-4-right bg-brown padded-2">
+    <h3><span class="quotes">"</span> The world is too big to just tell one story.<span class="quotes">"</span> </h3>
+  </div>
+  <div class="col-3_sm-4-bottom bg-brown padded-2">
+    <h2>Bloggers</h2>
+  </div>
+</section>
