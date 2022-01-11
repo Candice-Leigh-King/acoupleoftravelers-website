@@ -8,6 +8,7 @@ summary:
 twitter-title:
 twitter_image: /blog-images/iceland.jpg
 twitter-image-alt:
+blog_image: /blog-images/iceland.jpg
 top-heading: welcome to
 main-heading: Iceland
 sub-heading: The land of fire and ice.
@@ -22,5 +23,5 @@ blog-banner_image:
 categories:
   - travel
   - tips
-date: 2022-05-01 00:00:00
+date: 2020-05-01 00:00:00
 ---
