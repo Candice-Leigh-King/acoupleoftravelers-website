@@ -7,9 +7,9 @@
         <meta charset="utf-8">
 
         <!-- Meta data for SEO purposes. -->
-        <title> Oops </title>
-        <meta name="description" content="">
-        <meta name="keywords" content="travel couple, usa couple, travel influencers, vanlife, van life, couples to work with, american influencers, influencer marketing, travel photography, lifestyle photography, USA,">
+        <title> {{page.title}} </title>
+        <meta name="description" content="{{page.description}}">
+        <meta name="keywords" content="{{page.meta-keywords}}">
 
         <!-- meta data to tell the browser that your devide is responsive -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,21 +19,21 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
         <!--  Social media sharing META Tags -->
-        <meta property="og:title" content="Oops">
-        <meta property="og:description" content="">
-        <meta property="og:image" content="">
-        <meta property="og:url" content="/404.html">
-        <meta name="twitter:card" content="">
+        <meta property="og:title" content="{{page.title}}">
+        <meta property="og:description" content="{{page.description}}">
+        <meta property="og:image" content="{{page.featured_image}}">
+        <meta property="og:url" content="{{page.url}}">
+        <meta name="twitter:card" content="{{page.description}}">
         <meta name="og:site_name" content="A Couple of Travelers">
 
         <!-- twitter card -->
-        <meta name="twitter:card" content="Hey there, We're Leah & Matt - a couple who chases the sun and loves all things outdoors!  | USA based travel couple" />
-        <meta name="twitter:description" content="" />
-        <meta name="twitter:title" content="Moving Morans | USA based travel couple" />
+        <meta name="twitter:card" content="{{page.summary}}" />
+        <meta name="twitter:description" content="{{page.description}}" />
+        <meta name="twitter:title" content="{{page.twitter-title}}" />
         <meta name="twitter:site" content="acoupleoftravelers.com" />
-        <meta name="twitter:image" content="/images/banner.jpeg" />
+        <meta name="twitter:image" content="{{page.twitter_image}}" />
         <meta name="twitter:creator" content="A Couple of Travelers" />
-        <meta name="twitter:image:alt" content="">
+        <meta name="twitter:image:alt" content="{{page.twitter-image-alt}}">
 
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,12 +71,7 @@
       </nav>
     </header>
 
-    <section class="grid-center padded featured bg-brown">
-  <h1 class="success padded-top editable centered center col-12"> Oops!</h1>
-  <p class="sent col-6-center_sm-12 centered editable m-text "> It seems as though you're trying to access a page that doesn't exist. No worries, you can simple go back <a href = "javascript:history.back()"><span class="underline">here</span></a>.</p>
-
-</section>
-
+    {{content}}
 
     <footer class="grid-top bg-white">
       <!-- column -->

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: A Couple of Travelers
 meta-description:
 featured_image:
 url:
@@ -8,21 +8,21 @@ summary:
 twitter-title:
 twitter_image:
 twitter-alt_image:
-banner_image:
-about_image:
-bottom_image:
+banner_image: ../images/banner.jpg
+about_image: ../images/about.jpg
+bottom_image: ../images/bottom.jpg
 ---
 
 <!-- banner -->
-<section class="banner grid-center" style="background-image: url('{{page.banner_image}}');">
+<section class="banner-margin-top grid-center" style="background-image: url('{{page.banner_image}}');">
   <div class="col-6-middle centered">
-    <h2 class="explore-button"> Explore </h2>
+    <a href="#blogs"><h1 class="explore-button">  Explore  </h1> </a>
   </div>
 </section>
 
 <!-- recent blogs -->
-<section class="padded grid-center">
-  <h2>Recent Blogs</h2>
+<section class="padded grid" id="blogs">
+  <h2 class="left brown-text">Recent Blogs</h2>
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
     <div class="masonry-item ">
@@ -36,8 +36,6 @@ bottom_image:
         </div>
         <div class="bump">
           <h3> {{post.title}} </h3>
-          <p class="editable">↟↟↟</p>
-          <p class="date">{{post.author}}</p>
       </div>
       </a>
     </div>
@@ -48,24 +46,31 @@ bottom_image:
  <!-- about-->
  <section class="bg-white">
    <div class="flex-flip grid-middle padded-top-1" id="about">
-     <div class="col-5_sm-12 light-bg-flex">
-       <div class=" " style="background-image: url('{{page.about_image}}');"> </div>
+     <div class="col-6_xs-12 light-bg-flex">
+       <img class="about-image editable" src="../images/about.jpg" alt="">
      </div>
 
-     <div class=" col-7_sm-12 bg-brown" id="">
-       <div class="padded grid-center">
+     <div class=" col-6_xs-11 bg-brown bump-left" id="">
+       <div class=" padded grid-center">
          <h2 class=" editable padded col-12">About Us</h2>
-         <p class=" editable">Gaya is the zulu word for grind. It also has a double meaning. Gaia, in Greek mythology is the personification of the earth. Gaya was established in the year 2021 with the vision of creating a coffee brand that is aspirational yet attainable. Gaya aims to bridge the gap between specialty coffee and commercial coffee, a coffee that can be enjoyed by both casuals and connoisseurs. </p>
+         <p class=" editable">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
        </div>
      </div>
   </div>
 <section>
 
-<section class="banner grid-right padded" style="background-image: url('{{page.bottom_image}}');">
-  <div class="col-3_sm-4-right bg-brown padded-2">
-    <h3><span class="quotes">"</span> The world is too big to just tell one story.<span class="quotes">"</span> </h3>
+<section class="banner-bottom grid-right padded" style="background-image: url('{{page.bottom_image}}');">
+  <div class="col-9 mob-hide"> </div>
+  <div class="col-3_xs-hidden-top centered bg-brown padded-2">
+    <h3 class="m-text"><span class="quotes">"</span> The world is too big to just tell one story.<span class="quotes">"</span> </h3>
+    <p> <br>Follow us on our journey around the world.</p>
   </div>
-  <div class="col-3_sm-4-bottom bg-brown padded-2">
-    <h2>Bloggers</h2>
+  <div class="col-12_xs plane big-bump right">
+    <img class="right" src="../images/plane22.png" alt="">
   </div>
+  <div class="col-2_sm-4_xs-6-bottom centered bg-brown padded-s">
+    <h4 class="m-text white-text">Bloggers</h4>
+  </div>
+
 </section>
