@@ -7,29 +7,32 @@ page_blocks: []
 _array_structures:
   sections:
     values:
-      - label: blog text
+      - label: feature text
         icon: text
         value:
-          _section-type: blog-text
-          text-html:
-      - label: blog arches
+          _section-type: blog-feature-text
+          featured-text-html:
+      - label: banner image
         icon: image
         value:
-          _section-type: blog-arches
-          right_image:
-          left_image:
-      - label: blog fixed
+          _section-type: blog-banner-image
+        blog-banner_image:
+      - label: blog gallery
         icon: image
         value:
-          _section-type: blog-fixed
-          blog-fixed_image:
-      - label: window image
-        icon: image
+          _section-type: blog-gallery
+          1_image:
+          2_image:
+          3_image:
+          4_image:
+          5_image:
+          6_image:          
+      - label: blog regular text
+        icon: text
         value:
-          _section-type: blog-window
-          window_image:
+          _section-type: blog-regular-text
       - label: featured text
         icon: text
         value:
-          _section-type: blog-text-featured
-          featured-text-html:
+          _section-type: blog-regular-text
+          regular-text-html:
