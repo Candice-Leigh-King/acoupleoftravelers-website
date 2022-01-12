@@ -10,7 +10,7 @@ _array_structures:
       - label: feature text
         icon: text
         value:
-          _section-type: blog-feature-text
+          _section-type: blog-featured-text
           featured-text-html:
       - label: banner image
         icon: image
@@ -26,7 +26,7 @@ _array_structures:
           3_image:
           4_image:
           5_image:
-          6_image:          
+          6_image:
       - label: blog regular text
         icon: text
         value:
@@ -34,5 +34,13 @@ _array_structures:
       - label: featured text
         icon: text
         value:
-          _section-type: blog-regular-text
-          regular-text-html:
+          _section-type: blog-text-subheading
+          sub-heading:
+      - label: brown subheading
+        icon: text
+        value:
+          _section-type: blog-white-text-subheading
+          white-sub-heading:
+      - label: white subheading
+        icon: text
+        value:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 title: A Couple of Travelers
 meta-description:
 featured_image:
@@ -11,8 +11,31 @@ twitter-alt_image:
 bottom_image: ../images/mountain.jpg
 ---
 
-<section class="grid">
-  <h2 class="brown-text editable">Our Blogs</h2>
+<section class="grid padded-top">
+  <h2 class="brown-text editable padded">Our Blogs</h2>
+</section>
+
+
+<section class="padded-sides grid-center">
+  <div class="blog-loop blog-masonry padded-1">
+    {% for post in site.posts%}
+      <div class="masonry-item padded">
+          <a class="padded "href="{{post.url}}">
+            <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
+              <div class="hover-overlay">
+              </div>
+            </div>
+            <div class="bump bg-brown">
+              <h3 class="padded-00 border-top"> {{post.title}} </h3>
+              <p class="editable padded-00-bottom border-bottom">Read blog</p>
+            </div>
+            <div class="map " style="background-image:url('{{post.icon_image}}')">
+          </div>
+
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="banner padded" style="background-image: url('{{page.bottom_image}}');">
