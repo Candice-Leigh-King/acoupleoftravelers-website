@@ -109,8 +109,6 @@ sections:
       our 3rd and final full day!&nbsp;</p>
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 3
-  - _section-type: blog-banner-image
-    blog-banner_image: /blog-images/banner.jpg
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
       <p>BLUE LAGOON HERE WE COME! The Blue Lagoon is a geothermal spa in
@@ -133,6 +131,8 @@ sections:
       fantastic time! There is so much to see in Iceland, and we do plan on
       coming back, and spending a lot more time there, hopefully we will travel
       the famous ring road!</p>
+  - _section-type: blog-banner-image
+    blog-banner_image: /blog-images/banner.jpg
   - _section-type: blog-banner-image
     blog-banner_image: /blog-images/banner2.jpg
 ---
