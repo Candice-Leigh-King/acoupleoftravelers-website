@@ -56,7 +56,28 @@ sections:
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 1
   - _section-type: blog-featured-text
-    blog-featured-text-html: <p>second section</p>
+    blog-featured-text-html: >-
+      <p>We arrived early in the morning, so we had a full day ahead! We asked
+      the hotel to store our bags until check in, and we were off! We started
+      the day by walking to the places in close proximity, mentioned above, and
+      spent most of our time at the mall! It was very interesting to see the
+      different stores that we do not have in the DFW area. There was even a
+      grocery store!! Where we bought a couple of Icelandic snacks and wine.
+      From there we walked back to the hotel to drop off everything we bought,
+      and set off to the city center!&nbsp;</p><p>Our first matter of business
+      was to go to B&aelig;jarins Beztu Pylsur! This "hot dog" stand has been
+      around since 1937 and is world renowned! and MAN!!! We still dream of this
+      hot dog. An Icelandic hot dog is made from a combination of pork, beef,
+      and mostly lamb. Because of the grassfed, roam free Icelandic sheep, you
+      can really taste how different and delicious it is compared to the
+      american hot dog.&nbsp;</p><p>We continued onto Laugavegur, which is the
+      oldest and largest shopping street in Iceland! I do recommend a city tour
+      if you are wanting a guide to give you the "lay of the land." I will link
+      all tours at the bottom of this post! Be sure not to miss Hallgrimskrkj,
+      the iconic church in Reykjavik. There are many parks, buildings, museums,
+      bakeries, and shops to stop at. Our favorite place for icelandic ice cream
+      was Valdis, and our favorite bakery was BraudCo- they are famous for their
+      cinnamon rolls!&nbsp;</p>
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 2
   - _section-type: blog-featured-text
