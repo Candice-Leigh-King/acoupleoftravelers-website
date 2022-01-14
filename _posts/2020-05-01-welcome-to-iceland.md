@@ -81,7 +81,32 @@ sections:
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 2
   - _section-type: blog-featured-text
-    blog-featured-text-html: third section
+    blog-featured-text-html: >-
+      <p>The golden circle! We booked a tour through Viator Travel, and they
+      picked us up directly from the hotel! This is one of the most touristic
+      things to do in Iceland, but so worth it! You get to see Icelands
+      beautiful scenery, and learn about this history along the way! Starting
+      off with&nbsp;</p><p>&THORN;ingvellir (Thingvellir) national park! This is
+      an UNESCO world heritage site. The park sits within a rift valley, causing
+      the separation of two tectonic plates! This is the site of the world's
+      oldest existing parliament! You can even scuba dive between the tectonic
+      plates in Silfra Fissure to see the crystal clear water. Soon after taking
+      in the sights and learning all about the area from our tour guide, we
+      headed off to Strokkur Geysir which explodes with water every 5-10
+      minutes. As we walked to the site, you can see the steam lifting from the
+      ground! Next, our tour included a stop at a local family farm. We were
+      welcomed by the free roam sheep and adorable dogs they had on property. We
+      went inside where they had a small restaurant, and HOMEMADE ice cream! It
+      was absolutely divine. We got to see the cows they had on property, and
+      one sweet baby tried to eat my shirt! I was in love! After about 45
+      minutes, we headed off to Gullfoss waterfall, one of the largest in
+      Iceland. As you walk down you'll feel the mist on your face! Which was
+      very refreshing as it was about 70 degrees fahrenheit! Our tour guide said
+      we had brought the Texas weather with us. This was a sight to see, and we
+      even saw a rainbow right above. It was so beautiful.&nbsp;</p><p>We were
+      so tired, in the best way possible, from our day of adventures. We grabbed
+      something local to the hotel to eat, and went to bed early to prepare for
+      our 3rd and final full day!&nbsp;</p>
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 3
   - _section-type: blog-banner-image
