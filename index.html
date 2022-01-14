@@ -23,24 +23,27 @@ bottom_image: ../images/bottom.jpg
 <!-- recent blogs -->
 <section class="padded grid" id="blogs">
   <h2 class="left brown-text">Recent Blogs</h2>
+</section>
+
+<section class="padded grid-center">
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
-    <div class="masonry-item ">
+    <div class="masonry-item">
       <a class="padded "href="{{post.url}}">
         <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
           <div class="hover-overlay">
-            <div class="hover-inner center">
-              <h3 class="editable"> Read now → </h3>
-            </div>
           </div>
         </div>
-        <div class="bump">
-          <h3> {{post.title}} </h3>
-      </div>
+          <div class="bump bg-brown">
+            <h3 class="padded-00 border-top"> {{post.title}} </h3>
+            <p class="editable padded-00-bottom border-bottom">Read blog</p>
+
       </a>
     </div>
+          <h3> {{post.title}} </h3>
+      </div>
+
     {% endfor %}
-  </div>
 </section>
 
  <!-- about-->
