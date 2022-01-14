@@ -132,7 +132,7 @@ sections:
       coming back, and spending a lot more time there, hopefully we will travel
       the famous ring road!</p>
   - _section-type: blog-banner-image
-    blog-banner_image: /blog-images/banner.jpg
+    blog-banner_image: /uploads/banner.JPG
   - _section-type: blog-banner-image
     blog-banner_image: /blog-images/banner2.jpg
 ---
