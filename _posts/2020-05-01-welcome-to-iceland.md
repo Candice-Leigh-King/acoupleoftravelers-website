@@ -82,28 +82,6 @@ sections:
     white-sub-heading: Day 2
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
-      <p>BLUE LAGOON HERE WE COME! The Blue Lagoon is a geothermal spa in
-      southwestern Iceland. The spa is located in a lava field near
-      Grindav&iacute;k! Our tickets we bought included roundtrip transport from
-      our hotel, and entry into the lagoon! It was a bit pricey, but so worth
-      it, in our opinion! We took photos all round the property, as the rocky,
-      space-like landscape plus the water, was a view to remember. We went in
-      and prepped for the lagoon! you must shower before entry, And PLEASE put
-      the conditioner in your hair that they provide in the cost of your ticket-
-      it's a lifesaver, as the water contains high amounts of silica which is
-      where it gets its milky blue shade! We purchased the basic entry fee,
-      which included a face mask, and a free drink of choice. I chose a wine,
-      and Jay went with a local beer! The Blue Lagoon also features a hotel,
-      multiple restaurants, massages, sauna, and more!&nbsp;</p><p>After our
-      time at the blue lagoon, we headed back to the hotel! We cleaned up, and
-      went back to the city center for our last night. We were sure to eat more
-      traditional foods, and snack at all the places we loved so much our first
-      day.&nbsp;</p><p>Although we only had 3 full days, I would say we had a
-      fantastic time! There is so much to see in Iceland, and we do plan on
-      coming back, and spending a lot more time there, hopefully we will travel
-      the famous ring road!</p>
-  - _section-type: blog-featured-text
-    blog-featured-text-html: >-
       <p>The golden circle! We booked a tour through Viator Travel, and they
       picked us up directly from the hotel! This is one of the most touristic
       things to do in Iceland, but so worth it! You get to see Icelands
@@ -131,6 +109,28 @@ sections:
       our 3rd and final full day!&nbsp;</p>
   - _section-type: blog-white-text-subheading
     white-sub-heading: Day 3
+  - _section-type: blog-featured-text
+    blog-featured-text-html: >-
+      <p>BLUE LAGOON HERE WE COME! The Blue Lagoon is a geothermal spa in
+      southwestern Iceland. The spa is located in a lava field near
+      Grindav&iacute;k! Our tickets we bought included roundtrip transport from
+      our hotel, and entry into the lagoon! It was a bit pricey, but so worth
+      it, in our opinion! We took photos all round the property, as the rocky,
+      space-like landscape plus the water, was a view to remember. We went in
+      and prepped for the lagoon! you must shower before entry, And PLEASE put
+      the conditioner in your hair that they provide in the cost of your ticket-
+      it's a lifesaver, as the water contains high amounts of silica which is
+      where it gets its milky blue shade! We purchased the basic entry fee,
+      which included a face mask, and a free drink of choice. I chose a wine,
+      and Jay went with a local beer! The Blue Lagoon also features a hotel,
+      multiple restaurants, massages, sauna, and more!&nbsp;</p><p>After our
+      time at the blue lagoon, we headed back to the hotel! We cleaned up, and
+      went back to the city center for our last night. We were sure to eat more
+      traditional foods, and snack at all the places we loved so much our first
+      day.&nbsp;</p><p>Although we only had 3 full days, I would say we had a
+      fantastic time! There is so much to see in Iceland, and we do plan on
+      coming back, and spending a lot more time there, hopefully we will travel
+      the famous ring road!</p>
   - _section-type: blog-banner-image
     blog-banner_image: /blog-images/banner.jpg
   - _section-type: blog-banner-image
