@@ -131,4 +131,9 @@ sections:
     blog-banner_image: /uploads/banner.JPG
   - _section-type: blog-banner-image
     blog-banner_image: /blog-images/banner2.jpg
+  - _section-type: affiliate-links-images
+    link: https://www.viator.com/tours/Reykjavik/Blue-Lagoon-with-transfer/d905-105182P16
+    link_image: /affiliate-images/2.jpg
+    link-title: Blue Lagoon
+    link-description: this the about the link. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised i
 ---
