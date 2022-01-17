@@ -9,7 +9,7 @@
         <!-- Meta data for SEO purposes. -->
         <title> {{page.title}} </title>
         <meta name="description" content="{{page.description}}">
-        <meta name="keywords" content="{{page.meta-keywords}}">
+        <meta name="keywords" content="{{page.seo-keywords}}">
 
         <!-- meta data to tell the browser that your devide is responsive -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,13 +27,13 @@
         <meta name="og:site_name" content="A Couple of Travelers">
 
         <!-- twitter card -->
-        <meta name="twitter:card" content="{{page.summary}}" />
+        <meta name="twitter:card" content="{{page.description}}" />
         <meta name="twitter:description" content="{{page.description}}" />
-        <meta name="twitter:title" content="{{page.twitter-title}}" />
+        <meta name="twitter:title" content="{{page.title}}" />
         <meta name="twitter:site" content="acoupleoftravelers.com" />
-        <meta name="twitter:image" content="{{page.twitter_image}}" />
+        <meta name="twitter:image" content="{{page.featured_image}}" />
         <meta name="twitter:creator" content="A Couple of Travelers" />
-        <meta name="twitter:image:alt" content="{{page.twitter-image-alt}}">
+        <meta name="twitter:image:alt" content="{{page.twitter-alt}}">
 
     <!-- GOOGLE FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -60,15 +60,15 @@
     <header class=" fixed ">
       <div class="grid-center mob-hide">
       <nav class="col-4-middle">
-        <a href="/#about" class="padded"> ABOUT </a>
-        <a href="/blogs" class="padded"> BLOG</a>
+        <a href="/#about" class="nav-padded"> ABOUT </a>
+        <a href="/blogs" class="nav-padded"> BLOG</a>
       </nav>
       <div class="col-2-middle centered">
         <a href="/" class="logo center grow exit editable"> <img src="/images/logo2.png" class="grow" alt="a couple of travelers logo" /></a>
       </div>
       <nav class="col-4-middle">
-        <a href="/2020/01/01/favorites.html" class="padded"> FAVORITES </a>
-        <a href="/contact" class="padded"> CONTACT </a>
+        <a href="/2020/01/01/favorites.html" class="nav-padded"> FAVORITES </a>
+        <a href="/contact" class="nav-padded"> CONTACT </a>
       </nav>
     </div>
 

@@ -50,6 +50,7 @@ font-family: 'EB Garamond', serif;
 /*------------------- UTILITY STYLES ---------------  */
 .padded    { padding: 5%;    }
 .padded-s {padding: 1%;}
+.nav-padded {padding: 5% 5% 1% 5%;}
 .padded-1 {padding: 1rem;}
 .padded-00-top {padding-top: 5px;}
 .padded-00-bottom {padding-bottom: 5px;}
@@ -197,7 +198,11 @@ header a, footer a, nav a
   line-height: 1.5;
   }
 
-nav a:hover {color: #bea48b;}
+header nav a:hover
+  {
+  border-bottom: 1.1px solid #004700;
+  }
+
 footer a:hover {color: #bea48b;}
 
 footer
