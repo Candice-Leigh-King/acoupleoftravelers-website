@@ -6,9 +6,6 @@ seo-keywords:
 icon_image: /blog-images/map1.png
 featured-image_path: /blog-images/iceland.jpg
 url: /welcome-to-iceland
-summary:
-twitter-title:
-twitter_image: /blog-images/iceland.jpg
 twitter-image-alt:
 blog_image: /blog-images/iceland.jpg
 heading-above: Welcome to
