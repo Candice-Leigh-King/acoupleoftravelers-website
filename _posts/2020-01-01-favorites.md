@@ -2,25 +2,20 @@
 layout: affiliates
 title: Favorites
 paragraph: Over the years, we have found a lot of favorites! And we want to share the best with you. Here you can find recommended tours, products and even a few discounts and freebies.
-meta-description:
+description:  Here you can find recommended tours, products and even a few discounts and freebies.
+seo-keywords: Iceland, recommendations, bloggers, travelers, travel experts, iceland tours, 
 icon_image: /blog-images/map2.png
 featured-image_path: /affiliate-images/2.jpg
-summary:
-twitter-title:
-twitter_image: /affiliate-images/2.jpg
-twitter-image-alt:
 blog_image: /affiliate-images/2.jpg
 url: /favorites
-summary:
-twitter-title:
-twitter_image:
-twitter-alt_image:
+summary: Our personal favs!
+twitter-alt:
 sections:
   - _section-type: affiliate-links-images
     link: https://www.viator.com/tours/Reykjavik/Blue-Lagoon-with-transfer/d905-105182P16
     link_image: /affiliate-images/2.jpg
     link-title: Blue Lagoon
-    link-description: this the about the link ndustry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised i
+    link-description: this the about the link. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised i
   - _section-type: affiliate-links-images
     link: https://www.viator.com/tours/Reykjavik/Small-Group-Golden-Circle-and-Blue-Lagoon-Tour/d905-16698P27
     link_image: /affiliate-images/3.jpg
