@@ -3,9 +3,9 @@ layout: affiliates
 title: Favorites
 paragraph: Over the years, we have found a lot of favorites! And we want to share the best with you. Here you can find recommended tours, products and even a few discounts and freebies.
 description:  Here you can find recommended tours, products and even a few discounts and freebies.
-seo-keywords: Iceland, recommendations, bloggers, travelers, travel experts, iceland tours, 
+seo-keywords: Iceland, recommendations, bloggers, travelers, travel experts, iceland tours,
 icon_image: /blog-images/map2.png
-featured-image_path: /affiliate-images/2.jpg
+featured_image: /affiliate-images/2.jpg
 blog_image: /affiliate-images/2.jpg
 url: /favorites
 summary: Our personal favs!
