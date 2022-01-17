@@ -34,7 +34,7 @@ layout: default
     <div class="grid col-6">
     </div>
     <div class="grid col-6">
-      <p class="date col-6 centered border-right brown-text"> {{page.date | date_to_long_string }} </p>
+    <time class="date col-6 centered border-right brown-text" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string}}</time>
       <p class="date col-6 centered brown-text">  {{page.author}} </p>
    </div>
 </section>
@@ -46,7 +46,7 @@ layout: default
       <p class="date col-5 left">  {{page.author}}</p>  <p class="col-2 center">|</p>  <p class="date col-5  right"> {{page.date | date_to_long_string }}</p>
     <div class="mob-social-share col-12">
       <h4 class="mob-social-share"> Share
-        
+
       <a class="padded" href="https://twitter.com/intent/tweet?https://movingmoran.com/{{page.url}}" rel="nofollow" target="_blank" title="Share on Twitter">
         <span class="iconify" data-icon="akar-icons:twitter-fill"></span>
       </a>
