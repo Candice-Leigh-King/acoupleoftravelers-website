@@ -55,5 +55,20 @@ sections:
   - _section-type: blog-text-subheading
     sub-heading: Glen Rose, Texas
   - _section-type: blog-featured-text
-    featured-text-html: <p>Glen Rose, Texas Glen Rose, TexasGlen Rose, Texas</p>
+    featured-text-html: >-
+      <p>Glen Rose, Texas Glen Rose, TexasGlen Rose, Texas</p><p>LLEY STATE
+      PARK! Long ago, dinosaurs roamed the area, and left amazing footprints in
+      the river. You can see these impressions, learn about them, and can even
+      kayak the river, and go hiking. Check their website for trail status and
+      dinosaur track visibility. &nbsp;</p><p>You can also enjoy Big Rocks Park!
+      The name comes from the unusually large rocks on the banks of the Paluxy
+      River. This is a great spot for picnics, relaxing, and taking some pretty
+      fun photos! This park is also in close proximity to beautiful Downton Glen
+      Rose! This historic downtown square is perfect for grabbing coffee, a bite
+      to eat, and visiting antique stores.</p><p>Where to eat: Like we said in
+      the beginning, Texas is known for BBQ! So first on our list is Hammond's!
+      A local favorite. They have been serving BBQ in Glen Rose since 1996! Our
+      next go-to spot is Riverhouse Grill! A family owned restaurant serving up
+      delicious food in a historic house! Sunday brunch is highly
+      encouraged!&nbsp;</p>
 ---
