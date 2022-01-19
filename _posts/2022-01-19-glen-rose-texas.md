@@ -66,7 +66,6 @@ sections:
       next go-to spot is Riverhouse Grill! A family owned restaurant serving up
       delicious food in a historic house! Sunday brunch is highly
       encouraged!&nbsp;</p>
-  - _section-type: blog-banner-image
   - _section-type: blog-gallery
     1_image: /images/blog21.jpg
     2_image: /images/blog22.jpg
