@@ -44,4 +44,11 @@ sections:
       restaurant serving up delicious food in a historic house! Sunday brunch is
       highly encouraged!&nbsp;</p><p>Glen Rose is not the most popular
       destination in Texas, but it should definitely be on your list!&nbsp;</p>
+  - _section-type: blog-gallery
+    1_image: /blog-images/blog21.jpg
+    2_image: /blog-images/blog23.jpg
+    3_image: /blog-images/blog24.jpg
+    4_image: /blog-images/blog22.jpg
+    5_image: /blog-images/blog26.jpg
+    6_image: /blog-images/blog27.jpg
 ---
