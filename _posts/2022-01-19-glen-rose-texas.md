@@ -73,4 +73,11 @@ sections:
     4_image: /images/blog24.jpg
     5_image: /images/blog25.jpg
     6_image: /images/blog26.jpg
+  - _section-type: blog-gallery
+    1_image: /images/blog21.jpg
+    2_image: /images/blog22.jpg
+    3_image: /images/blog23.jpg
+    4_image: /images/blog24.jpg
+    5_image: /images/blog25.jpg
+    6_image: /images/blog26.jpg
 ---
