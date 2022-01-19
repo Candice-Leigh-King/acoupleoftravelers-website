@@ -20,19 +20,18 @@ sections:
     6_image: /blog-images/blog27.jpg
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
-      <h3>Glen Rose, Texas</h3><p>Welcome to The Lone Star State! Home of good
-      BBQ, Rodeo's, The Alamo, and SO much more! Today we are going to be
-      discussing one of our favorite staycations in North Texas</p><p>Glen Rose-
-      The dinosaur capital of Texas!&nbsp; One of our favorite staycation
-      cities. With so much to offer, this city is makes for a perfect weekend
-      getaway!&nbsp;</p><p>Where to stay: SkyBox Cabins. Featured in Southern
-      Living Magazine, Skybox Cabins have a unique twist when it comes to their
-      unique cabins/treehouses. We had the opportunity to stay in "The
-      Birdhouse'." It was a real treat! We enjoyed coffee at sunrise on our
-      balcony that overlooked the treetops! They are big on disconnecting from
-      electronics. They want you to enjoy nature with the company you bring. You
-      can book on airbnb or book directly from their website here:&nbsp;<a
-      target="_blank"
+      <p>Welcome to The Lone Star State! Home of good BBQ, Rodeo's, The Alamo,
+      and SO much more! Today we are going to be discussing one of our favorite
+      staycations in North Texas</p><p>Glen Rose- The dinosaur capital of
+      Texas!&nbsp; One of our favorite staycation cities. With so much to offer,
+      this city is makes for a perfect weekend getaway!&nbsp;</p><p>Where to
+      stay: SkyBox Cabins. Featured in Southern Living Magazine, Skybox Cabins
+      have a unique twist when it comes to their unique cabins/treehouses. We
+      had the opportunity to stay in "The Birdhouse'." It was a real treat! We
+      enjoyed coffee at sunrise on our balcony that overlooked the treetops!
+      They are big on disconnecting from electronics. They want you to enjoy
+      nature with the company you bring. You can book on airbnb or book directly
+      from their website here:&nbsp;<a target="_blank"
       href="https://www.skyboxcabins.com/cabins">https://www.skyboxcabins.com/cabins</a></p><p>What
       to do: You're in for a treat! There is much to do in Glen Rose. If you're
       staying at Skybox Cabins, you're about 5 minutes from DINOSAUR VALLEY
