@@ -5,12 +5,14 @@ textarea:
 description:
 seo-keywords: Iceland, recommendations, bloggers, travelers, travel experts, iceland tours,
 icon_image: /blog-images/map2.png
-featured_image: /affiliate-images/2.jpg
-blog_image: /affiliate-images/2.jpg
-url: /favorites
-summary: Our personal favs!
+featured_image: /blog-images/blog21.jpg
+blog_image: /blog-images/blog28.jpg
+url: /glen-rose-texas
+summary: Glen Rose, Texas
 twitter-alt:
 sections:
+  - _section-type: blog-text-subheading
+    brown-subheading: Glen Rose, Texas
   - _section-type: blog-gallery
     1_image: /blog-images/blog21.jpg
     2_image: /blog-images/blog23.jpg
@@ -50,6 +52,4 @@ sections:
       restaurant serving up delicious food in a historic house! Sunday brunch is
       highly encouraged!&nbsp;</p><p>Glen Rose is not the most popular
       destination in Texas, but it should definitely be on your list!&nbsp;</p>
-  - _section-type: blog-text-subheading
-    brown-subheading: Glen Rose, Texas
 ---
