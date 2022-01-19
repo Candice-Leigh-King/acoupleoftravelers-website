@@ -11,12 +11,8 @@ main-heading: Texas
 categories:
   - travel
   - tips
-<<<<<<< HEAD:_posts/2020-05-01-glen-rose-texas.md
-date: 2020-05-01 00:00:00
-author: Jay
-=======
 author: Lo
->>>>>>> 844979f1123ea279fa118b6fb9468f87fa0bb151:_posts/2020-01-18-glen-rose-texas.md
+date: 2020-05-01 00:00:00
 url: /glen-rose-texas
 summary: Welcome to Texas
 twitter-alt:
