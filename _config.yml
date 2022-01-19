@@ -27,24 +27,21 @@ _array_structures:
           4_image:
           5_image:
           6_image:
-      - label: blog regular text
+      - label: regular text
         icon: text
         value:
           _section-type: blog-regular-text
           regular-text-html:
-      - label: white background
-        icon: text
-        value:
-          _section-type: blog-text-subheading
-          sub-heading:
       - label: brown subheading
         icon: text
         value:
-          _section-type: blog-white-text-subheading
-          white-sub-heading:
+          _section-type: blog-text-subheading
+          brown-subheading:
       - label: white subheading
         icon: text
         value:
+          _section-type: blog-white-text-subheading
+          white-subheading:
       - label: affiliate links
         icon: image
         value:
