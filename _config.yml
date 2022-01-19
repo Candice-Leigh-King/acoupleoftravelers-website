@@ -45,6 +45,9 @@ _array_structures:
       - label: white subheading
         icon: text
         value:
+      - label: affiliate links
+        icon: image
+        value:
           _section-type: affiliate-links-images
           link:
           link_image:
