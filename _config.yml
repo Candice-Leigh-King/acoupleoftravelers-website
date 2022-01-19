@@ -11,12 +11,12 @@ _array_structures:
         icon: text
         value:
           _section-type: blog-featured-text
-          featured-text-html:
+          blog-featured-text-html:
       - label: banner image
         icon: image
         value:
           _section-type: blog-banner-image
-        blog-banner_image:
+          blog-banner_image:
       - label: blog gallery
         icon: image
         value:
@@ -31,6 +31,7 @@ _array_structures:
         icon: text
         value:
           _section-type: blog-regular-text
+          regular-text-html:
       - label: white background
         icon: text
         value:
