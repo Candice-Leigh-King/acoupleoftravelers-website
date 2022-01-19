@@ -17,7 +17,7 @@ date: 2020-05-01 00:00:00
 author: Jay
 sections:
   - _section-type: blog-text-subheading
-    sub-heading: The land of fire and ice
+    brown-subheading: The land of fire and ice
   - _section-type: blog-gallery
     1_image: /blog-images/1.jpg
     2_image: /blog-images/4.jpg
@@ -50,7 +50,7 @@ sections:
       located across the street, which is what we took when going down to the
       city center of reykjavik.&nbsp;</p>
   - _section-type: blog-white-text-subheading
-    white-sub-heading: Day 1
+    white-subheading: Day 1
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
       <p>We arrived early in the morning, so we had a full day ahead! We asked
@@ -75,7 +75,7 @@ sections:
       was Valdis, and our favorite bakery was BraudCo- they are famous for their
       cinnamon rolls!&nbsp;</p>
   - _section-type: blog-white-text-subheading
-    white-sub-heading: Day 2
+    white-subheading: Day 2
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
       <p>The golden circle! We booked a tour through Viator Travel, and they
@@ -104,7 +104,7 @@ sections:
       something local to the hotel to eat, and went to bed early to prepare for
       our 3rd and final full day!&nbsp;</p>
   - _section-type: blog-white-text-subheading
-    white-sub-heading: Day 3
+    white-subheading: Day 3
   - _section-type: blog-featured-text
     blog-featured-text-html: >-
       <p>BLUE LAGOON HERE WE COME! The Blue Lagoon is a geothermal spa in
