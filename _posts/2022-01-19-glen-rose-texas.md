@@ -8,9 +8,11 @@ blog_image: /affiliate-images/2.jpg
 heading-above: Welcome to
 main-heading: Texas
 url: /glen-rose-texas
-summary: Our personal favs!
+summary: Welcome to Texas
 twitter-alt:
 sections:
+  - _section-type: blog-text-subheading
+    brown-subheading: Glen Rose, Texas
   - _section-type: blog-gallery
     1_image: /blog-images/blog21.jpg
     2_image: /blog-images/blog23.jpg
@@ -50,6 +52,4 @@ sections:
       restaurant serving up delicious food in a historic house! Sunday brunch is
       highly encouraged!&nbsp;</p><p>Glen Rose is not the most popular
       destination in Texas, but it should definitely be on your list!&nbsp;</p>
-  - _section-type: blog-text-subheading
-    brown-subheading: Glen Rose, Texas
 ---
