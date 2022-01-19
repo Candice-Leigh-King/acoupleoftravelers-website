@@ -1,10 +1,11 @@
 ---
 layout: posts
 title: Glen Rose, Texas
+description:
 seo-keywords: Iceland, recommendations, bloggers, travelers, travel experts, iceland tours,
-icon_image: /blog-images/map2.png
-featured_image: /affiliate-images/2.jpg
-blog_image: /affiliate-images/2.jpg
+icon_image: /blog-images/map4.png
+featured_image: /blog-images/blog24.jpg
+blog_image: /blog-images/blog28.jpg
 heading-above: Welcome to
 main-heading: Texas
 url: /glen-rose-texas
