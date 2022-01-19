@@ -11,7 +11,7 @@ main-heading: Texas
 categories:
   - travel
   - tips
-author: Jay
+author: Lo
 url: /glen-rose-texas
 summary: Welcome to Texas
 twitter-alt:
