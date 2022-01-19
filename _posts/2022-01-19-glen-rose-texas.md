@@ -8,6 +8,11 @@ featured_image: /blog-images/blog24.jpg
 blog_image: /blog-images/blog28.jpg
 heading-above: Welcome to
 main-heading: Texas
+categories:
+  - travel
+  - tips
+date: 2020-18-01 00:00:00
+author: Jay
 url: /glen-rose-texas
 summary: Welcome to Texas
 twitter-alt:
