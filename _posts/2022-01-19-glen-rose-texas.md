@@ -47,11 +47,6 @@ sections:
       restaurant serving up delicious food in a historic house! Sunday brunch is
       highly encouraged!&nbsp;</p><p>Glen Rose is not the most popular
       destination in Texas, but it should definitely be on your list!</p>
-  - _section-type: affiliate-links-images
-    link:
-    link_image:
-    link-title:
-    link-description:
   - _section-type: blog-text-subheading
     sub-heading: Glen Rose, Texas
   - _section-type: blog-featured-text
@@ -71,4 +66,12 @@ sections:
       next go-to spot is Riverhouse Grill! A family owned restaurant serving up
       delicious food in a historic house! Sunday brunch is highly
       encouraged!&nbsp;</p>
+  - _section-type: blog-banner-image
+  - _section-type: blog-gallery
+    1_image: /images/blog21.jpg
+    2_image: /images/blog22.jpg
+    3_image: /images/blog23.jpg
+    4_image: /images/blog24.jpg
+    5_image: /images/blog25.jpg
+    6_image: /images/blog26.jpg
 ---
