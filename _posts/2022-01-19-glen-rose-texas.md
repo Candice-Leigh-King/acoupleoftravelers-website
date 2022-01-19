@@ -11,7 +11,7 @@ main-heading: Texas
 categories:
   - travel
   - tips
-date: 2020-18-01 00:00:00
+date:
 author: Jay
 url: /glen-rose-texas
 summary: Welcome to Texas
