@@ -54,4 +54,6 @@ sections:
     link-description:
   - _section-type: blog-text-subheading
     sub-heading: Glen Rose, Texas
+  - _section-type: blog-featured-text
+    featured-text-html: <p>Glen Rose, Texas Glen Rose, TexasGlen Rose, Texas</p>
 ---
