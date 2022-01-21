@@ -408,6 +408,20 @@ background-color: ;}
 .socials { font-size: 2rem;}
 .iconify {margin: 1%;}
 
+
+/* ---------ANNIMATION--------- */
+
+.reveal
+  {
+  position: relative;
+  opacity: 0;
+  transition: 3s all ease;
+  }
+
+.reveal.active {
+      opacity: 1;
+  }
+
 /* --------BLOG------------     */
 
 .blog-banner
