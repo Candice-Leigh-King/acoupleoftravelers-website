@@ -418,7 +418,7 @@ background-color: ;}
   transition: 3s all ease;
   }
 
-.fade-up {animation: fade-up 1s ease-in;}
+.fade-up.active {animation: fade-up 1s ease-in;}
 
 .reveal.active {
       opacity: 1;
