@@ -30,10 +30,10 @@ bottom_image: ../images/bottom.jpg
   <h2 class="left brown-text editable reveal fade-up">Recent Blogs</h2>
 </section>
 
-<section class="padded-sides grid-center reveal fade-up">
+<section class="padded-sides grid-center">
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
-      <div class="masonry-item padded">
+      <div class="masonry-item padded reveal fade-up">
           <a class="padded " href="{{post.url}}">
             <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
               <div class="hover-overlay">
