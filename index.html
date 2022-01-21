@@ -27,13 +27,13 @@ bottom_image: ../images/bottom.jpg
 
 <!-- recent blogs -->
 <section class="padded grid" id="blogs">
-  <h2 class="left brown-text editable animated animatedFadeInUp fadeInUp">Recent Blogs</h2>
+  <h2 class="left brown-text editable">Recent Blogs</h2>
 </section>
 
 <section class="padded-sides grid-center">
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
-      <div class="masonry-item padded animated animatedFadeInUp fadeInUp">
+      <div class="masonry-item padded">
           <a class="padded " href="{{post.url}}">
             <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
               <div class="hover-overlay">
@@ -57,10 +57,10 @@ bottom_image: ../images/bottom.jpg
 
      <div class=" col-6_xs-11 bg-brown bump-left">
        <div class=" padded grid-center">
-         <h2 class=" editable padded col-12 animated animatedFadeInUp fadeInUp">About Us</h2>
-         <p class=" editable animated animatedFadeInUp fadeInUp">Hi, we are Lo & Jay! Travel enthusiasts- based out of Texas. We are 25 years young with a passion for seeing the world and learning about new places.</p>
-        <p class=" editable animated animatedFadeInUp fadeInUp">Lo has dreamed of seeing the world since she was a little girl. Her favorite subjects in school were Anthropology, Archaeology, History, and World Geography.</p>
-        <p class=" editable animated animatedFadeInUp fadeInUp">Jay is new to the travel community. After meeting Lo in 2016, he joined her on his FIRST EVER flight to Iceland, and his life was changed. He realized how much there was to see and experiene in this world, and it has become a shared priority for the couple.</p>
+         <h2 class=" editable padded col-12">About Us</h2>
+         <p class=" editable">Hi, we are Lo & Jay! Travel enthusiasts- based out of Texas. We are 25 years young with a passion for seeing the world and learning about new places.</p>
+        <p class=" editable">Lo has dreamed of seeing the world since she was a little girl. Her favorite subjects in school were Anthropology, Archaeology, History, and World Geography.</p>
+        <p class=" editable">Jay is new to the travel community. After meeting Lo in 2016, he joined her on his FIRST EVER flight to Iceland, and his life was changed. He realized how much there was to see and experiene in this world, and it has become a shared priority for the couple.</p>
        </div>
      </div>
   </div>
@@ -68,11 +68,11 @@ bottom_image: ../images/bottom.jpg
 
 <section class="banner-bottom grid-right padded" style="background-image: url('{{page.bottom_image}}');">
   <div class="col-9 mob-hide"> </div>
-  <div class="col-3_xs-hidden-top centered bg-brown padded-2 animated animatedFadeInUp fadeInUp">
+  <div class="col-3_xs-hidden-top centered bg-brown padded-2">
     <h3 class="m-text editable"><span class="quotes">"</span> The world is too big to just tell one story.<span class="quotes">"</span> </h3>
     <p class="editable"> <br />Follow us on our journey around the world.</p>
   </div>
-  <div class="col-12_xs plane big-bump right animated animatedFadeInUp fadeInUp">
+  <div class="col-12_xs plane big-bump right">
     <img class="right" src="../images/plane22.png" alt="" />
   </div>
   <div class="col-12">
