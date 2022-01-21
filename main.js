@@ -53,3 +53,5 @@ $(document).ready(function(){
 		nextArrow: false,
 		});
 });
+
+function reveal(){let t=document.querySelectorAll(".reveal");for(let e=0;e<t.length;e++){var l=window.innerHeight;t[e].getBoundingClientRect().top<l-150?t[e].classList.add("active"):t[e].classList.remove("active")}}$(".hamburger-button").click(function(){$(".mobile-menu").fadeToggle(100),$(this).ToggleClass("active")}),window.addEventListener("scroll",reveal);
