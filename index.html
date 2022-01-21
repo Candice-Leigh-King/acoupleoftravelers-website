@@ -27,13 +27,13 @@ bottom_image: ../images/bottom.jpg
 
 <!-- recent blogs -->
 <section class="padded grid" id="blogs">
-  <h2 class="left brown-text editable reveal fade-up">Recent Blogs</h2>
+  <h2 class="left brown-text editable animated animatedFadeInUp fadeInUp">Recent Blogs</h2>
 </section>
 
 <section class="padded-sides grid-center">
   <div class="blog-loop blog-masonry padded-1">
     {% for post in site.posts limit:3 %}
-      <div class="masonry-item padded">
+      <div class="masonry-item padded animated animatedFadeInUp fadeInUp">
           <a class="padded " href="{{post.url}}">
             <div class=" hover-container" style="background-image:url('{{post.blog_image}}')">
               <div class="hover-overlay">
