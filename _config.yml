@@ -23,7 +23,6 @@ include:
 _array_structures:
   content_blocks:
     style: modal
-    
 
 defaults:
   -
