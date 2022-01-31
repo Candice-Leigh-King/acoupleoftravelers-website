@@ -1,52 +1,33 @@
-categories:
-- travel
-- lifestyle
-- tips
+title: Jekyll Bookshop Starter
+email: support@cloudcannon.com
 
-page_blocks: []
+source: site
+
+plugins:
+  - jekyll-bookshop
+  - cloudcannon-jekyll-bookshop
+
+# Multiple bookshops can be used on one website,
+# or different production / staging locations.
+bookshop_locations:
+  - ../component-library
+
+exclude:
+  - node_modules
+
+include:
+  - _cloudcannon # This exposes the live editing data to CloudCannon
+
+# The rest of this array structure will be
+# populated by the bookshop-array-structures plugin.
 _array_structures:
-  sections:
+  content_blocks:
+    style: modal
+    
+
+defaults:
+  -
+    scope:
+      path: ""
     values:
-      - label: brown background
-        icon: text
-        value:
-          _section-type: blog-featured-text
-          blog-featured-text-html:
-      - label: banner image
-        icon: image
-        value:
-          _section-type: blog-banner-image
-          blog-banner_image:
-      - label: blog gallery
-        icon: image
-        value:
-          _section-type: blog-gallery
-          1_image:
-          2_image:
-          3_image:
-          4_image:
-          5_image:
-          6_image:
-      - label: regular text
-        icon: text
-        value:
-          _section-type: blog-regular-text
-          regular-text-html:
-      - label: brown subheading
-        icon: text
-        value:
-          _section-type: blog-text-subheading
-          brown-subheading:
-      - label: white subheading
-        icon: text
-        value:
-          _section-type: blog-white-text-subheading
-          white-subheading:
-      - label: affiliate links
-        icon: image
-        value:
-          _section-type: affiliate-links-images
-          link:
-          link_image:
-          link-title:
-          link-description:
+      layout: default
