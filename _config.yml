@@ -23,6 +23,49 @@ include:
 _array_structures:
   content_blocks:
     style: modal
+      - label: brown background
+        icon: text
+        value:
+          _section-type: blog-featured-text
+          blog-featured-text-html:
+      - label: banner image
+        icon: image
+        value:
+          _section-type: blog-banner-image
+          blog-banner_image:
+      - label: blog gallery
+        icon: image
+        value:
+          _section-type: blog-gallery
+          1_image:
+          2_image:
+          3_image:
+          4_image:
+          5_image:
+          6_image:
+      - label: regular text
+        icon: text
+        value:
+          _section-type: blog-regular-text
+          regular-text-html:
+      - label: brown subheading
+        icon: text
+        value:
+          _section-type: blog-text-subheading
+          brown-subheading:
+      - label: white subheading
+        icon: text
+        value:
+          _section-type: blog-white-text-subheading
+          white-subheading:
+      - label: affiliate links
+        icon: image
+        value:
+          _section-type: affiliate-links-images
+          link:
+          link_image:
+          link-title:
+          link-description:
 
 defaults:
   -
