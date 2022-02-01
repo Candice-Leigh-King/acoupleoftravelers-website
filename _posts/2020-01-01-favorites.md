@@ -62,11 +62,8 @@ sections:
     link_image: /affiliate-images/4.jpg
     link-title: Glaciers, Waterfalls and Black Sand Beach
     link-description: >-
-      this the about the link ndustry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s, when an unknown printer took a
-      galley of type and scrambled it to make a type specimen book. It has
-      survived not only five centuries, but also the leap into electronic
-      typesetting, remaining essentially unchanged. It was popularised i
+      Iceland has so many natural wonders! Check out the black sand beaches,
+      waterfalls, and more! 
   - _section-type: affiliate-links-images
     link: https://www.viator.com/tours/Reykjavik/Midnight-Adventure/d905-107666P1
     link_image: /affiliate-images/6.jpg
