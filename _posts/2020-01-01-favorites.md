@@ -31,11 +31,9 @@ sections:
     link_image: /affiliate-images/3.jpg
     link-title: Golden Circle & Blue Lagoon
     link-description: >-
-      this the about the link ndustry. Lorem Ipsum has been the industry's
-      standard dummy text ever since the 1500s, when an unknown printer took a
-      galley of type and scrambled it to make a type specimen book. It has
-      survived not only five centuries, but also the leap into electronic
-      typesetting, remaining essentially unchanged. It was popularised i
+      Travel bloggers going to Iceland always head off to The Golden Circle! One
+      of the best known tours in Iceland. Check this one out & see if it's a
+      good fit for you! 
   - _section-type: affiliate-links-images
     link: >-
       https://www.viator.com/tours/Reykjavik/Grand-Golden-Circle-Day-Trip-from-Reykjavik/d905-16698P2
