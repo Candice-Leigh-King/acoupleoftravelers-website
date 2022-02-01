@@ -22,11 +22,9 @@ sections:
     link_image: /affiliate-images/2.jpg
     link-title: Blue Lagoon
     link-description: >-
-      this the about the link. Lorem Ipsum has been the industry's standard
-      dummy text ever since the 1500s, when an unknown printer took a galley of
-      type and scrambled it to make a type specimen book. It has survived not
-      only five centuries, but also the leap into electronic typesetting,
-      remaining essentially unchanged. It was popularised i
+      As a travel couple from The USA, The Blue Lagoon has been on our travel
+      bucket list for a long time! This tour makes it easy to achieve by
+      checking it off your bucket list! 
   - _section-type: affiliate-links-images
     link: >-
       https://www.viator.com/tours/Reykjavik/Small-Group-Golden-Circle-and-Blue-Lagoon-Tour/d905-16698P27
