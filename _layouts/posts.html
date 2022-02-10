@@ -67,7 +67,7 @@ layout: default
 
     {% for item in page.sections %}
     <div class="cms-editor-link"
-        data-cms-editor-link="cloudcannon:#section[{{ forloop.index0 }}]">
+        data-cms-editor-link="cloudcannon:#page_blocks[{{ forloop.index0 }}]">
         <span class="cms-editor-button"></span>
         {% include {{item._section-type}}.html %}
     </div>
