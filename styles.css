@@ -408,10 +408,6 @@ background-color: ;}
     padding: 5%;
     }
 
-.bump .bg-brown h3
-  {
-  font-size: 1rem;  
-  }
 
 .socials { font-size: 2rem;}
 .iconify {margin: 1%;}
@@ -720,6 +716,8 @@ h5 {font-size: 1.1rem;}
   }
 
 .mob-social-share {color: white;}
+
+.small-font {font-size: 1rem;}
 
 /* -----UNIQUE STYLES------   */
 
