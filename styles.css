@@ -408,6 +408,11 @@ background-color: ;}
     padding: 5%;
     }
 
+.bump .bg-brown h3
+  {
+  font-size: 1rem;  
+  }
+
 .socials { font-size: 2rem;}
 .iconify {margin: 1%;}
 
