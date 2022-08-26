@@ -456,6 +456,8 @@ background-color: ;}
 
 /* --------BLOG------------     */
 
+.small-font h3 {font-size: 1rem;}
+
 .blog-banner
   {
   background-size: cover;
@@ -717,7 +719,7 @@ h5 {font-size: 1.1rem;}
 
 .mob-social-share {color: white;}
 
-.small-font h3 {font-size: 1rem;}
+
 
 /* -----UNIQUE STYLES------   */
 

@@ -116,6 +116,9 @@ p
   font-size: 1.2rem;
   margin-bottom: 0.8rem;
   }
+  
+li
+  {color:#fff;}
 
 .cursive
   {
@@ -148,7 +151,7 @@ p
   line-height: 0;
   }
 
-.xxl-text {font-size: 8rem;}
+.xxl-text {font-size: 5rem;}
 .xl-text {font-size: 2.9rem;}
 .m-text {font-size: 1.5rem;}
 
@@ -405,10 +408,55 @@ background-color: ;}
     padding: 5%;
     }
 
+
 .socials { font-size: 2rem;}
 .iconify {margin: 1%;}
 
+
+/* ---------ANNIMATION--------- */
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+.animated {
+    animation-duration: 2s;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-fill-mode: both
+}
+
+.animatedFadeInUp {
+    opacity: 0
+}
+
+.fadeInUp {
+    opacity: 0;
+    animation-name: fadeInUp;
+    -webkit-animation-name: fadeInUp;
+}
+
 /* --------BLOG------------     */
+
+.small-font h3 {font-size: 1rem;}
 
 .blog-banner
   {
@@ -577,7 +625,7 @@ background-color: #00470078;
     z-index: 12;
     }
 
-  .hamburger.active span:first-child {transform: rotate(51deg) translate(-2px,-5px);}
+  .hamburger.active span:first-child {transform: rotate(51deg) translate(-2px,-5px); color: #2d1f14;}
   .hamburger span:first-child {transform-origin: 0 0;}
 
   .hamburger.active span:nth-child(2)
@@ -586,10 +634,8 @@ background-color: #00470078;
     transform: rotate(0) scale(.2,.2);
     }
 
-  .hamburger.active span:nth-child(3) {transform: rotate(-45deg) translate(-1px,-1px);}
+  .hamburger.active span:nth-child(3) {transform: rotate(-45deg) translate(-1px,-1px); color: #2d1f14;}
   .hamburger span:last-child {  transform-origin: 0 40%;}
-
-  .active {color: #2d1f14;}
 
   .menu-p
     {
@@ -643,7 +689,7 @@ h3 {font-size: 1.4rem;}
 h4 {font-size: 1.3rem;}
 h5 {font-size: 1.1rem;}
 
-.xxl-text {font-size: 4rem;}
+.xxl-text {font-size: 3.5rem;}
 
 .xl-text  {font-size: 1.1rem;}
 .m-text {font-size: 1.1rem;}
@@ -672,6 +718,8 @@ h5 {font-size: 1.1rem;}
   }
 
 .mob-social-share {color: white;}
+
+
 
 /* -----UNIQUE STYLES------   */
 
@@ -718,7 +766,7 @@ h5 {font-size: 1.1rem;}
   h3 {font-size: 1.2rem;}
   h4 {font-size: 1.1rem;}
 
-.xxl-text {font-size: 3rem;}
+.xxl-text {font-size: 2rem;}
 
 .cursive
   {
